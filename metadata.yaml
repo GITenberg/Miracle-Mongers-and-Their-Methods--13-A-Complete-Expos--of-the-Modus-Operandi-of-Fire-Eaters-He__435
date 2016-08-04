@@ -1,0 +1,32 @@
+_repo: Miracle-Mongers-and-Their-Methods--13-A-Complete-Expos--of-the-Modus-Operandi-of-Fire-Eaters-He__435
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Houdini, Harry
+    aliases:
+    - Weiss, Ehrich
+    - Deadota, Giovanni
+    - Weisz, Erik
+    birthdate: 1874
+    deathdate: 1926
+    gutenberg_agent_id: '236'
+    url: http://www.gutenberg.org/2009/agents/236
+    wikipedia: http://en.wikipedia.org/wiki/Harry_Houdini
+description: ''
+gutenberg_issued: '1996-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '435'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Magicians -- Biography'
+- !lcc 'GV'
+- !lcsh 'Magic tricks -- History'
+- GITenberg
+title: "Miracle Mongers and Their Methods\r\nA Complete Exposé of the Modus Operandi\
+  \ of Fire Eaters, Heat Resisters, Poison Eaters, Venomous Reptile Defiers, Sword\
+  \ Swallowers, Human Ostriches, Strong Men, Etc."
+url: http://www.gutenberg.org/ebooks/435
