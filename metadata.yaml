@@ -1,5 +1,8 @@
 _repo: Miracle-Mongers-and-Their-Methods--13-A-Complete-Expos--of-the-Modus-Operandi-of-Fire-Eaters-He__435
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Houdini, Harry
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/236
     wikipedia: http://en.wikipedia.org/wiki/Harry_Houdini
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/435#Miracle-Mongers-and-Their-Methods--13-A-Complete-Expos--of-the-Modus-Operandi-of-Fire-Eaters-He_
 gutenberg_issued: '1996-02-01'
 gutenberg_type: Text
 identifiers:
